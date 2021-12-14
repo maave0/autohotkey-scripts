@@ -10,6 +10,8 @@ To run these on startup, create a shortcut and copy it to your startup folder:
 
 `C:\Users\YourNameHere\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
 
+or Run (Win+R) shell:startup
+
 # run as administrator
 
 Sometimes the shifter doesn't work in the start menu. Right click on the shortcut > Properties > Shortcut > Advanced > Run as Administrator
